@@ -1,3 +1,4 @@
+
 def dna_count(s):
     a = g = c = t = 0
 
